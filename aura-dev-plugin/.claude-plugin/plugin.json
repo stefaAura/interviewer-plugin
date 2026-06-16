@@ -1,0 +1,14 @@
+{
+  "name": "aura-dev",
+  "displayName": "Aura Dev Toolkit",
+  "version": "1.0.0",
+  "description": "Plugin para desarrollar aura-core-ai-interviewer: planner, revisión de capas, scaffolding y MCP Context7.",
+  "author": {
+    "name": "Aura Research",
+    "email": "ssegnini@auraresearch.ai"
+  },
+  "skills": "./skills/",
+  "agents": "./agents/",
+  "hooks": "./hooks/hooks.json",
+  "mcpServers": "./.mcp.json"
+}
