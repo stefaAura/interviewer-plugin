@@ -8,7 +8,12 @@
     "email": "ssegnini@auraresearch.ai"
   },
   "skills": "./skills/",
-  "agents": "./agents/",
+  "agents": [
+    "./agents/aura-planner.md",
+    "./agents/arch-reviewer.md",
+    "./agents/test-writer.md",
+    "./agents/db-reviewer.md"
+  ],
   "hooks": "./hooks/hooks.json",
   "mcpServers": "./.mcp.json"
 }
