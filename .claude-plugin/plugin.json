@@ -1,13 +1,12 @@
 {
   "name": "aura-dev",
   "displayName": "Aura Dev Toolkit",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Plugin para desarrollar aura-core-ai-interviewer: planner, revisión de capas, scaffolding y MCP Context7.",
   "author": {
     "name": "Aura Research",
     "email": "ssegnini@auraresearch.ai"
   },
-  "skills": "./skills/",
   "agents": [
     "./agents/aura-planner.md",
     "./agents/arch-reviewer.md",

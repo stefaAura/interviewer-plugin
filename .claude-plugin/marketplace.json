@@ -7,7 +7,7 @@
   "plugins": [
     {
       "name": "aura-dev",
-      "version": "1.0.1",
+      "version": "1.0.2",
       "source": {
         "source": "github",
         "repo": "stefaAura/interviewer-plugin"
