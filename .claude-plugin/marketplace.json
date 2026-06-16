@@ -1,0 +1,17 @@
+{
+  "name": "interviewer-plugin",
+  "owner": {
+    "name": "Aura Research",
+    "email": "ssegnini@auraresearch.ai"
+  },
+  "plugins": [
+    {
+      "name": "aura-dev",
+      "source": "../aura-dev-plugin",
+      "description": "Plugin para desarrollar aura-core-ai-interviewer: planner, arch-reviewer, scaffolding y MCP Context7.",
+      "author": {
+        "name": "Aura Research"
+      }
+    }
+  ]
+}
