@@ -8,9 +8,8 @@
     {
       "name": "aura-dev",
       "source": {
-        "source": "git-subdir",
-        "url": "https://github.com/stefaAura/interviewer-plugin.git",
-        "path": "aura-dev-plugin"
+        "source": "github",
+        "repo": "stefaAura/interviewer-plugin"
       },
       "description": "Plugin para desarrollar aura-core-ai-interviewer: planner, arch-reviewer, scaffolding y MCP Context7.",
       "author": {
