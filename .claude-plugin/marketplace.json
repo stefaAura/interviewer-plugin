@@ -7,12 +7,12 @@
   "plugins": [
     {
       "name": "aura-dev",
-      "version": "1.0.2",
+      "version": "2.0.0",
       "source": {
         "source": "github",
         "repo": "stefaAura/interviewer-plugin"
       },
-      "description": "Plugin para desarrollar aura-core-ai-interviewer: planner, arch-reviewer, scaffolding y MCP Context7.",
+      "description": "Plugin para desarrollar aura-core-ai-interviewer: agentes de planeación, implementación y consulta + skills de arquitectura, nuevas features, refactoring, code review y bug fixing, con MCP Context7.",
       "author": {
         "name": "Aura Research"
       }
